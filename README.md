@@ -1,21 +1,30 @@
 # 💫 About Me
 Hi, I’m Somay 👋  
-I’m passionate about Data Science & AI because I love turning raw data into actionable insights and building intelligent systems that solve real-world problems. My journey spans Python, Machine Learning, Deep Learning, and Generative AI, with hands-on experience in autoencoders, NLP, OpenCV, and data analytics.  
+I’m passionate about **Data Science & AI**, turning raw data into actionable insights and building intelligent systems that solve real-world problems. My journey spans **Python, Machine Learning, Deep Learning, and Generative AI**, with hands-on experience in **autoencoders, NLP, OpenCV, Streamlit, and data analytics**.  
 
 💡 **Strengths:** Problem-solving, curiosity, creativity, and learning by building  
-💻 **Projects:** Revenue Leakage Analysis, Credit Card Fraud Detection (Autoencoder + Gen AI), Ride Demand Prediction, Autoencoder-based Representation Learning  
-🎨 **Hobbies:** Exploring AI innovations, rap music, coffee experiments, and logical puzzles  
-🚀 **Goal:** To create AI-driven solutions that are not only intelligent but impactful, usable, and fascinating  
+🎯 **Goal:** Create AI-driven solutions that are **impactful, usable, and fascinating**  
+
+---
+
+## 💻 Projects
+| Project | Tech & Highlights |
+|---------|-----------------|
+| Revenue Leakage Analysis | Python, Pandas, SQL, Business Insights |
+| Credit Card Fraud Detection | Autoencoder + Generative AI, Python, ML |
+| Ride Demand Prediction | Python, ML, Visualization |
+| Autoencoder-based Representation Learning | Deep Learning, Autoencoders, Gen AI |
 
 ---
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somay-attri-7b893b33a/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somayattri0@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somayattri0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=google-chrome&logoColor=white)](https://gprm.itsvg.in)
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
@@ -36,7 +45,7 @@ I’m passionate about Data Science & AI because I love turning raw data into ac
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somay1&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somay1&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somay1&theme=tokyonight)
@@ -45,4 +54,4 @@ I’m passionate about Data Science & AI because I love turning raw data into ac
 
 [![](https://visitcount.itsvg.in/api?id=somay1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
