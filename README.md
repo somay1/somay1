@@ -46,8 +46,7 @@ I’m passionate about **Data Science & AI**, turning raw data into actionable i
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somay1&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somay1&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somay1&theme=tokyonight)
 
 ---
